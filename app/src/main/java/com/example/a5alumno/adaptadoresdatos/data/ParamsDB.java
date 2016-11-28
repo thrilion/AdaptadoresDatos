@@ -5,8 +5,8 @@ package com.example.a5alumno.adaptadoresdatos.data;
  */
 
 public abstract class ParamsDB {
-    public static final String DB_NAME = "JJD311-DataBase";
-    public static final String TABLE_NAME = "JJD311-Table";
+    public static final String DB_NAME = "MyDB";
+    public static final String TABLE_NAME = "MyTable";
     public static final int DB_VERSION = 1;
     public static final String _ID = "_id";
     public static final String STUDENT_NAME = "name";
